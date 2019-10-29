@@ -1,0 +1,31 @@
+[Mon Oct 28 23:10:50.179186 2019] [ssl:warn] [pid 7056:tid 624] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 23:10:50.322470 2019] [ssl:warn] [pid 7056:tid 624] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 23:10:50.624022 2019] [mpm_winnt:notice] [pid 7056:tid 624] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.10 configured -- resuming normal operations
+[Mon Oct 28 23:10:50.624022 2019] [mpm_winnt:notice] [pid 7056:tid 624] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Mon Oct 28 23:10:50.624022 2019] [core:notice] [pid 7056:tid 624] AH00094: Command line: 'C:\\soap\\moodle\\apache2\\bin\\httpd.exe -d C:/soap/moodle/apache2 -f C:\\soap\\moodle\\apache2\\conf\\httpd.conf'
+[Mon Oct 28 23:10:50.661873 2019] [mpm_winnt:notice] [pid 7056:tid 624] AH00418: Parent: Created child process 8888
+[Mon Oct 28 23:10:51.366944 2019] [ssl:warn] [pid 8888:tid 544] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 23:10:51.448305 2019] [ssl:warn] [pid 8888:tid 544] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 23:10:51.492844 2019] [mpm_winnt:notice] [pid 8888:tid 544] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 28 23:10:57.932301 2019] [mpm_winnt:notice] [pid 7056:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 28 23:10:59.947919 2019] [mpm_winnt:notice] [pid 8888:tid 544] AH00364: Child: All worker threads have exited.
+[Mon Oct 28 23:10:59.982880 2019] [mpm_winnt:notice] [pid 7056:tid 624] AH00430: Parent: Child process 8888 exited successfully.
+[Mon Oct 28 23:11:02.325076 2019] [ssl:warn] [pid 9976:tid 704] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 23:11:02.438502 2019] [ssl:warn] [pid 9976:tid 704] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 23:11:02.757107 2019] [mpm_winnt:notice] [pid 9976:tid 704] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.10 configured -- resuming normal operations
+[Mon Oct 28 23:11:02.757107 2019] [mpm_winnt:notice] [pid 9976:tid 704] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Mon Oct 28 23:11:02.757107 2019] [core:notice] [pid 9976:tid 704] AH00094: Command line: 'C:\\soap\\moodle\\apache2\\bin\\httpd.exe -d C:/soap/moodle/apache2 -f C:\\soap\\moodle\\apache2\\conf\\httpd.conf'
+[Mon Oct 28 23:11:02.798876 2019] [mpm_winnt:notice] [pid 9976:tid 704] AH00418: Parent: Created child process 1472
+[Mon Oct 28 23:11:03.481536 2019] [ssl:warn] [pid 1472:tid 604] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 23:11:03.559533 2019] [ssl:warn] [pid 1472:tid 604] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 23:11:03.619068 2019] [mpm_winnt:notice] [pid 1472:tid 604] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 28 23:28:54.367599 2019] [mpm_winnt:notice] [pid 9976:tid 704] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 28 23:28:56.381285 2019] [mpm_winnt:notice] [pid 1472:tid 604] AH00364: Child: All worker threads have exited.
+[Mon Oct 28 23:28:56.431768 2019] [mpm_winnt:notice] [pid 9976:tid 704] AH00430: Parent: Child process 1472 exited successfully.
+[Mon Oct 28 23:28:58.795833 2019] [ssl:warn] [pid 11076:tid 740] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 23:28:58.929956 2019] [ssl:warn] [pid 11076:tid 740] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 23:28:58.995303 2019] [mpm_winnt:notice] [pid 11076:tid 740] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.10 configured -- resuming normal operations
+[Mon Oct 28 23:28:58.995303 2019] [mpm_winnt:notice] [pid 11076:tid 740] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Mon Oct 28 23:28:58.995303 2019] [core:notice] [pid 11076:tid 740] AH00094: Command line: 'C:\\soap\\moodle\\apache2\\bin\\httpd.exe -d C:/soap/moodle/apache2 -f C:\\soap\\moodle\\apache2\\conf\\httpd.conf'
+[Mon Oct 28 23:28:59.019484 2019] [mpm_winnt:notice] [pid 11076:tid 740] AH00418: Parent: Created child process 2948
+[Mon Oct 28 23:28:59.760697 2019] [ssl:warn] [pid 2948:tid 524] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name

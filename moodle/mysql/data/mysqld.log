@@ -1,0 +1,13 @@
+2019-10-29T02:08:13.788325Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2019-10-29T02:08:13.806825Z 0 [System] [MY-013169] [Server] C:\soap\moodle\mysql\bin\mysqld.exe (mysqld 8.0.17) initializing of server in progress as process 756
+2019-10-29T02:08:38.840160Z 0 [Warning] [MY-010161] [Server] You need to use --log-bin to make --expire_logs_days work.
+2019-10-29T02:08:40.458884Z 5 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2019-10-29T02:09:02.015812Z 0 [System] [MY-013170] [Server] C:\soap\moodle\mysql\bin\mysqld.exe (mysqld 8.0.17) initializing of server has completed
+2019-10-29T02:09:05.314168Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2019-10-29T02:09:05.314483Z 0 [System] [MY-010116] [Server] C:\soap\moodle\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 4740
+2019-10-29T02:09:11.740826Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-29T02:09:11.956239Z 0 [System] [MY-010931] [Server] C:\soap\moodle\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2019-10-29T02:09:12.082187Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-10-29T02:09:50.204032Z 10 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.17).
+2019-10-29T02:09:50.204588Z 0 [System] [MY-013105] [Server] C:\soap\moodle\mysql\bin\mysqld.exe: Normal shutdown.
+2019-10-29T02:09:51.600128Z 0 [System] [MY-010910] [Server] C:\soap\moodle\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.17)  MySQL Community Server - GPL.
