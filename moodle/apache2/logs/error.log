@@ -29,3 +29,17 @@
 [Mon Oct 28 23:28:58.995303 2019] [core:notice] [pid 11076:tid 740] AH00094: Command line: 'C:\\soap\\moodle\\apache2\\bin\\httpd.exe -d C:/soap/moodle/apache2 -f C:\\soap\\moodle\\apache2\\conf\\httpd.conf'
 [Mon Oct 28 23:28:59.019484 2019] [mpm_winnt:notice] [pid 11076:tid 740] AH00418: Parent: Created child process 2948
 [Mon Oct 28 23:28:59.760697 2019] [ssl:warn] [pid 2948:tid 524] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 23:28:59.848406 2019] [ssl:warn] [pid 2948:tid 524] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 23:28:59.884352 2019] [mpm_winnt:notice] [pid 2948:tid 524] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 30 00:51:17.301486 2019] [mpm_winnt:notice] [pid 11076:tid 740] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 30 00:51:19.331995 2019] [mpm_winnt:notice] [pid 2948:tid 524] AH00364: Child: All worker threads have exited.
+[Wed Oct 30 00:51:19.539077 2019] [mpm_winnt:notice] [pid 11076:tid 740] AH00430: Parent: Child process 2948 exited successfully.
+[Wed Oct 30 00:53:08.679270 2019] [ssl:warn] [pid 4124:tid 696] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 30 00:53:09.270186 2019] [ssl:warn] [pid 4124:tid 696] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 30 00:53:23.947147 2019] [mpm_winnt:notice] [pid 4124:tid 696] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.10 configured -- resuming normal operations
+[Wed Oct 30 00:53:23.947147 2019] [mpm_winnt:notice] [pid 4124:tid 696] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Wed Oct 30 00:53:23.947147 2019] [core:notice] [pid 4124:tid 696] AH00094: Command line: 'C:\\soap\\moodle\\apache2\\bin\\httpd.exe -d C:/soap/moodle/apache2 -f C:\\soap\\moodle\\apache2\\conf\\httpd.conf'
+[Wed Oct 30 00:53:23.947147 2019] [mpm_winnt:notice] [pid 4124:tid 696] AH00418: Parent: Created child process 5708
+[Wed Oct 30 00:53:24.332370 2019] [ssl:warn] [pid 5708:tid 616] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 30 00:53:24.466133 2019] [ssl:warn] [pid 5708:tid 616] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 30 00:53:24.682478 2019] [mpm_winnt:notice] [pid 5708:tid 616] AH00354: Child: Starting 64 worker threads.

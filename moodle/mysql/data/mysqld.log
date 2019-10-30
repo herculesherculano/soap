@@ -11,3 +11,15 @@
 2019-10-29T02:09:50.204032Z 10 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.17).
 2019-10-29T02:09:50.204588Z 0 [System] [MY-013105] [Server] C:\soap\moodle\mysql\bin\mysqld.exe: Normal shutdown.
 2019-10-29T02:09:51.600128Z 0 [System] [MY-010910] [Server] C:\soap\moodle\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.17)  MySQL Community Server - GPL.
+2019-10-29T02:10:33.669387Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2019-10-29T02:10:33.669557Z 0 [System] [MY-010116] [Server] C:\soap\moodle\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 10636
+2019-10-29T02:10:39.258291Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-29T02:10:39.614868Z 0 [System] [MY-010931] [Server] C:\soap\moodle\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2019-10-29T02:10:39.811371Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2019-10-30T03:51:17.424840Z 0 [System] [MY-013105] [Server] C:\soap\moodle\mysql\bin\mysqld.exe: Normal shutdown.
+2019-10-30T03:51:19.581646Z 0 [System] [MY-010910] [Server] C:\soap\moodle\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.17)  MySQL Community Server - GPL.
+2019-10-30T03:53:09.810185Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2019-10-30T03:53:10.028203Z 0 [System] [MY-010116] [Server] C:\soap\moodle\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 5128
+2019-10-30T03:55:32.168572Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-30T03:55:32.847509Z 0 [System] [MY-010931] [Server] C:\soap\moodle\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2019-10-30T03:55:33.038066Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060

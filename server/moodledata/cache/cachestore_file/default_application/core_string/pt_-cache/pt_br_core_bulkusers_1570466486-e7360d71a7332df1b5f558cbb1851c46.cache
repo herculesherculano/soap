@@ -1,0 +1,13 @@
+a:20:{s:6:"addall";s:14:"Adicione todos";s:6:"addsel";s:20:"Adicione a seleção";s:16:"allfilteredusers";s:41:"Todos filtrados ({$a->count}/{$a->total})";s:16:"allselectedusers";s:44:"Todos selecionados ({$a->count}/{$a->total})";s:8:"allusers";s:25:"Todos os usuários ({$a})";s:9:"available";s:12:"Disponíveis";s:14:"confirmmessage";s:84:"Você realmente deseja enviar a mensagem acima para todos estes usuários?<br />{$a}";s:11:"deleteduser";s:18:"Usuário excluído";s:15:"nofilteredusers";s:35:"Nenhum usuário encontrado (0/{$a})";s:15:"noselectedusers";s:27:"Nenhum usuário selecionado";s:9:"removeall";s:12:"Remova todos";s:9:"removesel";s:19:"Remova da seleção";s:8:"selected";s:12:"Selecionados";s:12:"selectedlist";s:34:"Lista de usuários selecionados...";s:17:"selectedlist_help";s:646:"<h2>Lista de usuários selecionados...</h2>
+
+<ul>
+<li>Adicionar à seleção - adiciona os usuários marcados da lista de usuários Disponíveis na lista de usuários Selecionados.
+Uma seleção múltipla de usuários pode ser feita pressionando e segurando a tecla Apple ou Ctrl enquanto você clica nos nomes de usuários.</li>
+<li>Adicionar todos - adiciona todos os usuários da lista de usuários Disponíveis na lista dos usuários Selecionados.</li>
+<li>Remover da seleção - remove os usuários marcados da lista de usuários Selecionados.</li>
+<li>Remover todos - remove todos os usuários da lista de usuários Selecionados.</li>
+</ul>";s:5:"users";s:9:"Usuários";s:10:"users_help";s:759:"<h2>Listas de Usuários</h2>
+
+<p>A lista de usuários <strong>Disponíveis</strong> contém os usuários que passaram pelos Filtros Ativos. Por exemplo, se a seção dos Filtros ativos contém somente um filtro para usuários cujo país é a Rômenia, então a lista dos usuários Disponíveis conterá apenas usuários que definiram a Romênia como seu país na página de perfil.</p>
+
+<p>A lista de usuários<strong>Selecionados</strong> contém os usuários que foram adicionados a esta lista por você, usando os botões da seção <em>Lista de usuários selecionados...</em>. Quando o botão <em>Vá</em> da seção <em>Com os usuários selecionados...</em> é pressionado, a operação escolhida será executada com relação aos usuários da lista.</p>";s:10:"usersfound";s:27:"{$a} usuários encontrados.";s:11:"usersinlist";s:18:"Usuários na lista";s:13:"usersselected";s:30:"{$a} usuário(s) selecionados.";}
